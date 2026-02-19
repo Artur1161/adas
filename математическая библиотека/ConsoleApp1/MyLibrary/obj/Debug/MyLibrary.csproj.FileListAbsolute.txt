@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\winformscw0502\ConsoleApp1\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\User\Desktop\winformscw0502\ConsoleApp1\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\User\Desktop\winformscw0502\ConsoleApp1\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\winformscw0502\ConsoleApp1\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\winformscw0502\ConsoleApp1\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\User\Desktop\winformscw0502\ConsoleApp1\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\User\Desktop\Библиотека\ConsoleApp1\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\User\Desktop\Библиотека\ConsoleApp1\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\User\Desktop\Библиотека\ConsoleApp1\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Библиотека\ConsoleApp1\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Библиотека\ConsoleApp1\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\User\Desktop\Библиотека\ConsoleApp1\MyLibrary\obj\Debug\MyLibrary.pdb
